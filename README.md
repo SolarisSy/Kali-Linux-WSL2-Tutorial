@@ -25,7 +25,7 @@ Digite o seguinte comando no Prompt de Comando:
 wsl --set-default kali-linux
 ```
 ### Passo 5 - Abrir o Kali Linux
-Digite "kali" na barra de pesquisa do Windows e selecione "Kali Linux".
+Digite "kali" na barra de pesquisa do Windows e selecione "Kali Linux"
 ou
 Abra o cmd e digite "wsl" se estiver tudo certo seu kali linux deverá inicializar no cmd correspondente
 

@@ -26,9 +26,12 @@ wsl --set-default kali-linux
 ```
 ### Passo 5 - Abrir o Kali Linux
 Digite "kali" na barra de pesquisa do Windows e selecione "Kali Linux".
+ou
+Abra o cmd e digite "wsl" se estiver tudo certo seu kali linux deverá inicializar no cmd correspondente
 
 ### Passo 6 - Configurar o Kali Linux
 Siga este [tutorial](https://www.kali.org/docs/wsl/win-kex/) para configurar o Kali Linux para uso.
+Aqui você encontrará uma série de instruções de opções de instalação, gui, versão completa com todas as tools e derivados.
 
 ### Passo 7 - Instalar ferramentas adicionais
 Use o gerenciador de pacotes apt-get para instalar ferramentas adicionais. Por exemplo, para instalar o Wireshark, digite o seguinte comando no terminal do Kali Linux:

@@ -52,7 +52,21 @@ Aguarde até que o processo de atualização seja concluído.
 ## Pronto agora você tem a wsl 2 configurada e pronta para a instalação do seu Kali Linux
 
 ## Passo 2 - Baixar o aplicativo Kali Linux
-Procure pelo aplicativo Kali Linux na barra de pesquisa da Microsoft Store e clique em "Instalar".
+Primeiro em seu cmd passe o seguinte comando
+```
+wsl --list --onlie
+```
+Procure o aplicativo com o nome de kali-linux, verifique se essa é a distruição desejada
+agora só instalar
+para instalar você primeiro vai precisar passar o comando de instalação na sua máquina da distruição com o seguinte comando:
+```
+wsl --install -d <Distribution Name>
+```
+nesse caso:
+```
+wsl --install -d kali-linux
+```
+ou você pode optar por instalar o aplicativo Kali Linux na barra de pesquisa da Microsoft Store e clique em "Instalar".
 
 ## Passo 3 - Verificar se o Kali Linux está instalado
 Abra o Prompt de Comando do Windows e digite o seguinte comando:

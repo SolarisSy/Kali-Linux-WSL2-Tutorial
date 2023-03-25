@@ -99,6 +99,6 @@ Navegue até a pasta "mnt" do Kali Linux para acessar arquivos do Windows. Por e
 
 ### Fontes adicionais
 - [Documentação oficial do Kali Linux](https://www.kali.org/docs/)
-- [Tutorial sobre como usar o Kali Linux via WSL 2](https://www.youtube.com/watch?v=3q7a-Scnm2Q)
-- [Tutorial sobre como instalar ferramentas adicionais no Kali Linux](https://www.kali.org/docs/general-use/install-additional-kali-tools/)
+- [Tutorial sobre como usar o Kali Linux via WSL 2](https://www.youtube.com/watch?v=o1_E4PBl30s)
+- [Tutorial sobre como instalar ferramentas adicionais no Kali Linux](https://www.kali.org/tools/)
 - [Tutorial sobre como compartilhar arquivos entre o Windows e o Kali Linux](https://www.kali.org/docs/wsl/win-kex/#mounting-windows-directories-in-kali-linux-wsl-2)
